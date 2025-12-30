@@ -1,3 +1,4 @@
+// For best performance compile with clang primes.c -o <something> -O3 -march=native -fomit-frame-pointer
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdint.h>
